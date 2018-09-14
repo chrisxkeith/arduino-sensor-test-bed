@@ -108,7 +108,7 @@ public:
     if (sample()) {
       displayValues();
     }
-    delay(1000);
+    delay(10000);
   }
 };
 
